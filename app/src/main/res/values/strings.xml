@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DesafíoRedLink</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filtrar_por">Filtrar por Nombre de Album</string>
+    <string name="todos_albums">Todos los Albums</string>
+    <string name="filtrar_album_por_nombre">Filtrar Album Por Nombre:</string>
+</resources>
